@@ -1,0 +1,9 @@
+name: inv-ext-utils
+version: 0.1.0
+
+authors:
+  - syeopite <syeopite@syeopite.dev>
+
+crystal: '>= 1.14.0'
+
+license: MIT
